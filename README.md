@@ -4,9 +4,22 @@
 
 A two-page Power BI dashboard analysing the Sample - Superstore dataset (US retail orders, Jan 2014 to Dec 2017), built for the Future Interns Data Science & Analytics Task 1 (2026).
 
-**Power BI file:** `Superstore_Sales_Dashboard.pbix`
-**Screenshots:** `screenshots/page1_dashboard.png`, `screenshots/page2_findings.png` *(add your own exports)*
-**Dashboard link:** *(add your Power BI service link here, if you publish it)*
+## Dashboard preview
+
+**Page 1: Dashboard**
+
+![Dashboard page 1](Screenshot%202026-10-10%20221226.png)
+
+**Page 2: Findings**
+
+![Dashboard page 2](Screenshot%202026-10-10%20221259.png)
+
+
+
+
+
+
+
 
 ## Business questions
 
@@ -294,21 +307,10 @@ Every number in the findings and recommendations comes from this step, so none i
 
 ### Charts
 
-Monthly sales and profit:
-
-![Monthly trend](python/sample_output/charts/monthly_trend.png)
-
-Profit by sub-category (red bars lose money):
-
-![Profit by sub-category](python/sample_output/charts/profit_by_sub_category.png)
-
-Profit margin by discount level:
-
-![Margin by discount level](python/sample_output/charts/margin_by_discount.png)
-
-Profit margin by region:
-
-![Margin by region](python/sample_output/charts/margin_by_region.png)
+![Monthly trend](monthly_trend%20%281%29.png)
+![Profit by sub-category](profit_by_sub_category.png)
+![Margin by discount level](margin_by_discount.png)
+![Margin by region](margin_by_region.png)
 
 ## Limitations
 
@@ -342,4 +344,4 @@ superstore-sales-performance-dashboard/
 
 ## Data source
 
-[Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-fina
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
