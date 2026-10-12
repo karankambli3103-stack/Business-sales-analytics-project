@@ -10,6 +10,8 @@ A two-page Power BI dashboard analysing the Sample - Superstore dataset (US reta
 
 ![Dashboard page 1](Screenshot%202026-10-10%20221226.png)
 
+
+
 **Page 2: Findings**
 
 ![Dashboard page 2](Screenshot%202026-10-10%20221259.png)
